@@ -1,0 +1,16 @@
+.titulo{
+    color: rgb(17, 73, 73);
+}
+.titulos{
+    padding-bottom: 100px;
+    color: aquamarine;
+    align-content: center;
+    background-color: darkgreen;
+}
+.celdas{
+    text-align: center;
+    color: #043448;
+    background-color: aquamarine;
+
+}
+
